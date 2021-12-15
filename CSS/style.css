@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 62.5%
+}
+
+button{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    outline: none;
+    border-style: solid;
+    border-color: #BB99DD;
+    border-radius: 4px;
+
+    width: 326px;
+    height: 49px;
+    margin-top: 15px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #BB99DD;
+    font-size: 1.5rem;
+}
+
+button:hover{
+    background-color: #BB99DD;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    outline: none;
+    border-style: double;
+    border-color: #BB99DD;
+
+    transition: 150ms ease-out;
+
+    width: 326px;
+    height: 49px;
+    margin-top: 15px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #FAF7FD;
+    font-size: 1.5rem;
+
+}
+
+body{
+    background-color: #FAF7FD;
+    color: #BB99DD;
+    font-size: 1rem;
+}
+
+h1{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+#main_box{
+    width: 350px;
+    height: 100%;
+
+    margin: 0 auto;
+}
+
+#user_photo{
+
+    width: 200px;
+    height: 200px;
+
+    margin: 64px;
+    margin-top: 30px;
+    padding: 6px;
+
+    border: solid;
+    border-radius: 50%;
+    border-color: #BB99DD;
+}
+
+#instagram{
+    position: relative;
+    bottom: 49px;
+    left: 126px;
+    width: 10px;
+}
+
+#link_buttons{
+    padding-left: 10px;
+    margin-top: -30px;
+}
+
+#socialmedias{
+    display: flex;
+    justify-content: space-around;
+
+    padding: 21px;
+    padding-top: 35px;
+}
+
+@media (max-width: 320px) {
+    #main_box{
+        width: 320px;
+        height: 100%;
+    
+        margin: 0 auto;
+    }
+
+    button{
+        width: 280px;
+        height: 42px;
+        margin-top: 15px;
+        margin-left: 9.5px;
+    }
+
+    button:hover{
+    
+        width: 280px;
+        height: 42px;
+        margin-top: 15px;
+    }
+
+    #user_photo{
+
+        width: 180px;
+        height: 180px;
+        margin-left: 58px;
+
+    }
+
+    #instagram{
+        position: relative;
+        bottom: 49px;
+        left: 106px;
+    }
+
+    #socialmedias{
+
+        padding: 45px;
+        padding-top: 34px;
+    }
+
+    #socialmedias img{
+        width: 85%;
+    }
+    
+    #link_buttons{
+        padding-left: 10px;
+        margin-top: -36px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 768) {
+
+    button{
+        width: 280px;
+        height: 48px;
+        margin-top: 15px;
+        margin-left: 9.5px;
+    }
+
+    button:hover{
+    
+        width: 280px;
+        height: 48px;
+        margin-top: 15px;
+    }
+
+    #user_photo{
+        width: 180px;
+        height: 180px;
+        margin-left: 76px;
+
+    }
+
+    #link_buttons{
+        padding-left: 28px;
+        margin-top: -36px;
+    }
+
+    #socialmedias{
+
+        padding: 50px;
+        padding-top: 33px;
+    }
+
+    #socialmedias img{
+        width: 80%;
+    }
+}

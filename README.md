@@ -8,13 +8,11 @@
 
 <br>
 
-<p style="display:inline"><strong>Challenge planning:</strong></p>
-<a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f">Social Tree on Notion.</a>
+<p style="display:inline"><strong>Challenge planning:</strong>
+<a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f">Social Tree on Notion.</a></p>
 
-<br>
-
-<p style="display:inline"><strong>Layout on Figma:</strong></p>
-<a href="https://www.figma.com/file/DVeBKoblVYnT8MoWiGntSu/DD-%2F-Social-links-(Copy)?node-id=0%3A1">Social Tree on Figma.</a>
+<p style="display:inline"><strong>Layout on Figma:</strong>
+<a href="https://www.figma.com/file/DVeBKoblVYnT8MoWiGntSu/DD-%2F-Social-links-(Copy)?node-id=0%3A1">Social Tree on Figma.</a></P
 
 <br>
 

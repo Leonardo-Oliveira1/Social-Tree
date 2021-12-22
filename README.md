@@ -3,7 +3,7 @@
 
 ### ⚠ About 
 
-<p>This project was developed using HTML e CSS based on the challenge <strong>"Social Tree"</strong> by Rocketseat. Besides, the project design was completely based on planning.</p>
+<p>This project was developed using HTML and CSS based on the challenge <strong>"Social Tree"</strong> by Rocketseat. Besides, the project design was completely based on planning.</p>
 <p>The purpose of creating this project is to practice the basic and necessary tools for building a responsive website: <strong>HTML</strong> and <strong>CSS!</strong></p>
 
 <br>

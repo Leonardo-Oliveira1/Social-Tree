@@ -1,7 +1,6 @@
 <h1 align="center">Social Tree - Rocketseat 👩‍💻🚀</h1>
 
 
----
 ### ⚠ About 
 
 <p>This project was developed using HTML e CSS based on the challenge <strong>"Social Tree"</strong> by Rocketseat. Besides, the project design was completely based on planning.</p>
